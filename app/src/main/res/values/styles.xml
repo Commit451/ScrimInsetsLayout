@@ -14,6 +14,10 @@
         <item name="android:statusBarColor" tools:targetApi="lollipop">@android:color/transparent</item>
     </style>
 
+    <style name="Activity.Toolbar">
+        <item name="android:statusBarColor" tools:targetApi="lollipop">@android:color/transparent</item>
+    </style>
+
     <!--Do this, so that we can have white text in the toolbar-->
     <style name="Toolbar">
         <item name="android:theme">@style/ToolbarTheme</item>

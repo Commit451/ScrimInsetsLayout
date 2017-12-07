@@ -3,6 +3,8 @@ ScrimInsetsFrameLayout from the design support library
 
 [![Build Status](https://travis-ci.org/Commit451/ScrimInsetsLayout.svg?branch=master)](https://travis-ci.org/Commit451/ScrimInsetsLayout) [![](https://jitpack.io/v/Commit451/ScrimInsetsLayout.svg)](https://jitpack.io/#Commit451/ScrimInsetsLayout)
 
+![Status Bar](/art/status_bar.png "Status Bar")
+
 # Usage
 If you want to do the typical thing where a view is pushed below the status bar:
 
