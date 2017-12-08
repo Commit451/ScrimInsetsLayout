@@ -21,6 +21,11 @@
         <activity
             android:name=".ToolbarActivity"
             android:theme="@style/Activity.Toolbar"/>
+
+        <activity
+            android:name=".ScrollAndNavigationActivity"
+            android:theme="@style/Activity.ScrollAndNavigation"/>
+
     </application>
 
 </manifest>

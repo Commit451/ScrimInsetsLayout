@@ -35,7 +35,7 @@ protected void onCreate(Bundle savedInstanceState) {
     });
 }
 ```
-See the sample for a full example.
+See the sample for a more examples.
 
 License
 --------

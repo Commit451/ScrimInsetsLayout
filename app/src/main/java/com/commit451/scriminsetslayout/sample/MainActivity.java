@@ -32,10 +32,17 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        findViewById(R.id.card).setOnClickListener(new View.OnClickListener() {
+        findViewById(R.id.button_extended_appbar).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 startActivity(new Intent(MainActivity.this, ToolbarActivity.class));
+            }
+        });
+
+        findViewById(R.id.button_extended_scrollview).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(MainActivity.this, ScrollAndNavigationActivity.class));
             }
         });
     }
