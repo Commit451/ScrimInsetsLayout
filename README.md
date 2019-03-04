@@ -35,12 +35,12 @@ protected void onCreate(Bundle savedInstanceState) {
     });
 }
 ```
-See the `app` module for a more examples.
+See the `app` module for more examples. Note that though this library has a minSdk of 15, the insets will only apply on API 21+.
 
 License
 --------
 
-    Copyright 2017 Commit 451
+    Copyright 2019 Commit 451
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
