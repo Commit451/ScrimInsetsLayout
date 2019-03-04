@@ -9,5 +9,9 @@ import android.graphics.Rect;
  * clipToPadding to false.
  */
 public interface OnInsetsCallback {
+    /**
+     * Denotes that the insets have changed
+     * @param insets the new insets
+     */
     void onInsetsChanged(Rect insets);
 }

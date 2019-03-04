@@ -35,7 +35,7 @@ protected void onCreate(Bundle savedInstanceState) {
     });
 }
 ```
-See the sample for a more examples.
+See the `app` module for a more examples.
 
 License
 --------

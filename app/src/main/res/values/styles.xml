@@ -22,11 +22,8 @@
 
     <style name="Activity.ScrollAndNavigation">
         <item name="android:windowDrawsSystemBarBackgrounds" tools:targetApi="lollipop">true</item>
-        <item name="android:statusBarColor" tools:targetApi="lollipop">@android:color/transparent
-        </item>
-        <item name="android:navigationBarColor" tools:targetApi="lollipop">
-            @android:color/transparent
-        </item>
+        <item name="android:statusBarColor" tools:targetApi="lollipop">@android:color/transparent</item>
+        <item name="android:navigationBarColor" tools:targetApi="lollipop">@android:color/transparent</item>
     </style>
 
     <!--Do this, so that we can have white text in the toolbar-->
